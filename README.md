@@ -7,3 +7,6 @@ RunScript
 Focus
 Blur
 ClickMouse
+WaitForNoRequest
+Thank You
+End
