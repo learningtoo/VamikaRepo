@@ -12,4 +12,3 @@ configs:
       keyRequests:
         type: list
         values:
-        - /CalculateRecommendations
